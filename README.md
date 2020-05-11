@@ -13,7 +13,10 @@ Changes are part of automatic merge example
 ## Trouble ReadMe
 
 Where plan to add more information, after trouble has been resolved
+<<<<<<< HEAD
 
 ## updates from Master
 
 This is going to be painful, but we will deal with it
+=======
+>>>>>>> trouble
